@@ -7,7 +7,7 @@
 
 ## Integrantes
 - Daniel Quezada · Registro N°921316 · GitHub: [@Danino99](https://github.com/Danino99)
-- Matías Mallón · Registro N°921268 · GitHub: [@matimallon1](https://github.com/matimallon1)
+- Matías Mallón · Registro N°921278 · GitHub: [@matimallon1](https://github.com/matimallon1)
 
 ## Dataset
 **Trending YouTube Video Statistics (113 Countries)** obtenido de [Kaggle](https://www.kaggle.com/datasets/asaniczka/trending-youtube-videos-113-countries).
